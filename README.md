@@ -20,6 +20,7 @@ k6, p6spy, EXPLAIN ANALYZE 등을 활용해 분석하고 개선해 왔습니다.
 
 - **TeenPle**  
   학교 인증 기반 익명 커뮤니티 · Backend · iOS / Android 실제 출시 및 운영 중
+  
 
 - **배달의 드론**  
   드론 시뮬레이터 기반 음식 배달 서비스 · Backend
@@ -33,4 +34,4 @@ k6, p6spy, EXPLAIN ANALYZE 등을 활용해 분석하고 개선해 왔습니다.
 
 ## GitHub
 
-https://github.com/본인아이디
+https://github.com/rkddk7165
